@@ -1,0 +1,4 @@
+#Sun Nov 10 05:38:02 SGT 2019
+base.0=E\:\\APP TI\\Semester 5\\VISUAL 3\\save\\catatan\\catatan\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
